@@ -1,2 +1,2 @@
 # beginning-bioinformatics
-BIOL5340-001
+Nayan Vipin Bhandari + 1002215730 + BIOL5340-001
